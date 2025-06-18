@@ -2,7 +2,7 @@
 
 A modern, responsive, and fast developer portfolio website built with **React**, **Vite**, and **Tailwind CSS** — perfect to showcase your skills, projects, and resume.
 
-![Portfolio Banner](./screenshots/hero.png)
+![Portfolio Banner](./hero.png)
 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
