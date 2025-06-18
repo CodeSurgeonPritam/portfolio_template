@@ -5,9 +5,8 @@ A modern, responsive, and fast developer portfolio website built with **React**,
 ![Portfolio Banner](./hero.png)
 
 
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://reactjs.org/)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://your-live-site.com)
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://pritam-portfolio-inky-beta.vercel.app/)
 
 ---
 
@@ -27,7 +26,7 @@ A modern, responsive, and fast developer portfolio website built with **React**,
 
 | Home Page (Light Mode) | Dark Mode |
 |------------------------|-----------|
-| ![Light](./screenshots/light.png) | ![Dark](./screenshots/dark.png) |
+| ![Light](.hero.png) | ![Dark](./screenshots/dark.png) |
 ## 🛠️ Technologies Used
 
 - React 19
