@@ -573,7 +573,7 @@ function Hero() {
           />
         </motion.div>
         <motion.p 
-          className="text-sm text-gray-400 mt-2 text-center"
+          className="text-sm text-gray-400 mt-2 ml-[-30px] text-center"
           animate={{ opacity: [0.5, 1, 0.5] }}
           transition={{ duration: 2, repeat: Infinity }}
         >
