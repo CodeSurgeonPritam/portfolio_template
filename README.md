@@ -1,16 +1,33 @@
-# Personal Portfolio Website
+# 🚀 Personal Portfolio Website
 
-A modern and responsive portfolio website built with React, Vite, and Tailwind CSS.
+A modern, responsive, and fast developer portfolio website built with **React**, **Vite**, and **Tailwind CSS** — perfect to showcase your skills, projects, and resume.
 
-## 🚀 Features
+![Portfolio Banner](./screenshots/hero.png)
 
-- Responsive design that works on all devices
-- Smooth animations using Framer Motion
-- Dark mode support
-- Interactive UI components
-- Fast loading with Vite
-- SEO optimized
 
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://reactjs.org/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://your-live-site.com)
+
+---
+
+## ✨ Features
+
+- ✅ Fully **responsive** layout
+- 🌗 **Dark mode** toggle
+- 🎯 Optimized with **Vite** for blazing-fast builds
+- 🎨 Smooth animations using **Framer Motion**
+- 🧠 Easy content customization
+- ⚡ SEO optimized for search engines
+- 🧭 Built with **React Router DOM**
+
+---
+
+## 📸 Screenshots
+
+| Home Page (Light Mode) | Dark Mode |
+|------------------------|-----------|
+| ![Light](./screenshots/light.png) | ![Dark](./screenshots/dark.png) |
 ## 🛠️ Technologies Used
 
 - React 19
